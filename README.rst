@@ -30,4 +30,4 @@ Where the timestamp is the sprint starting date.
 File template
 =============
 
-For the lazy ones, copy the template found at `2020-01-01-TEMPLATE.rst`.
+For the lazy ones, copy the template found at ``2020-01-01-TEMPLATE.rst``.
