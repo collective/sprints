@@ -1,0 +1,31 @@
+===========
+SPRINT NAME
+===========
+
+Short description of the sprint, its focus/goals...
+
+Dates and location
+==================
+
+Brief information about where and when it happened/is happening
+
+Participants
+============
+
+List of @names of all participants, so is easier to find them later on.
+
+Links
+=====
+
+Links to coactivate, or other pages with information related to the sprint
+
+Topics
+======
+
+List of topics that where sprinted during the sprint with a @names list of who was involved on each of them.
+Links to GitHub issues or packages worked on and so on.
+
+- Migrate Rename/Copy/Cut/Paste/Delete: https://github.com/plone/Products.CMFPlone/issues/97
+  who: @gforcada, @eleddy
+  where: https://github.com/plone/Products.CMFPlone/tree/XXXXX
+  status: not finished
