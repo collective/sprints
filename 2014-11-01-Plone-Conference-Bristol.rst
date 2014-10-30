@@ -21,7 +21,7 @@ Too much to list!
 Links
 =====
 
-Conference main page: http://2014.ploneconf.or
+Conference main page: http://2014.ploneconf.org
 
 
 Topics
