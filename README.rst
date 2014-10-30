@@ -26,7 +26,6 @@ File name format should be like: ``YYYY-MM-DD-SPRINT-NAME.rst``
 Where the timestamp is the sprint starting date.
 
 
-
 File template
 =============
 
