@@ -9,6 +9,7 @@ Dates and location
 ==================
 
 When: from November 1st to November 2nd.
+
 Where: Thistle Grand Hotel, Bristol, the conference venue
 
 
