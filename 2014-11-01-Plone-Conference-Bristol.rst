@@ -53,7 +53,8 @@ Controlpanels
   Who: @ibi @MrTango @khink
   Status: in progress
 
-Plan: Copy the controlpanels into Products.CMFPlone one by one.
+Plan: https://titanpad.com/0fyCHL1o6P
+Copy the controlpanels into Products.CMFPlone one by one.
 Start with tests.
 Then copy code from the ``plip10359-z3cform``-branch of p.a.c
 Then check for commits on p.a.c master that we need to cherry-pick.
