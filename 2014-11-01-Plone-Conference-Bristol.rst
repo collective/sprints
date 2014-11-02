@@ -37,9 +37,12 @@ CI sprint
 - Move jenkins jobs configurations to `Jenkins Job Builder <http://ci.openstack.org/jenkins-job-builder/>`_
 
   What: https://trello.com/b/U14dgKcN/plone-testing-ci-sprint-bristol-2014
-  Who: @gforcada
+  Who: @gforcada, mpeeters
   Code: https://github.com/plone/jenkins.plone.org/tree/jenkins-job-builder
   Status: not finished
+
+Basic migration of jobs are done, http://test.jenkins.plone.org can run all tests (including robot ones).
+There's some manual setup still being done.
 
 
 Controlpanels
