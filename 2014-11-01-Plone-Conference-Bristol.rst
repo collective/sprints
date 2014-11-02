@@ -16,7 +16,7 @@ Where: Thistle Grand Hotel, Bristol, the conference venue
 Participants
 ============
 
-Too much to list!
+Too many to list!
 
 
 Links
@@ -71,3 +71,11 @@ We started on the first commit on the branch and moved forward in time from ther
 7da32a (2012-04-10): cherry-picked
 a18d4a (2012-05-07): cherry-picked
 4dcd48 (2012-05-14): manually cherry-picked
+
+collective.sendaspdf
+--------------------
+
+Who: @neajj
+What: Long-delayed tweak to make sendaspdf use the latest wkhtmltopdf 
+Status: Pull request submitted:
+    https://github.com/zestsoftware/collective.sendaspdf/pull/18
