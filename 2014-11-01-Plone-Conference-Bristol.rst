@@ -79,3 +79,17 @@ Who: @neajj
 What: Long-delayed tweak to make sendaspdf use the latest wkhtmltopdf 
 Status: Pull request submitted:
     https://github.com/zestsoftware/collective.sendaspdf/pull/18
+    
+
+Ecosystem KGS
+-------------
+Who: Roel Bruggink
+What: Ecosystem wide KGS per Plone version
+Status: Nothing done.
+
+
+TTW addon installation
+----------------------
+Who: Roel Bruggink, Alexander Loechel, Giacomo Spettoli
+What: Allow installing Plone addons TTW
+Status: Going to do hangout. Alexander has a basic implementation.
