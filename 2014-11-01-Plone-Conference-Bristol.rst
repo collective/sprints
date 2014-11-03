@@ -93,3 +93,20 @@ TTW addon installation
 Who: Roel Bruggink, Alexander Loechel, Giacomo Spettoli
 What: Allow installing Plone addons TTW
 Status: Going to do hangout. Alexander has a basic implementation.
+
+
+Documentation
+--------------
+
+participants: Paul Roeland, Roel Bruggink, Sébastien & Coen
+
+* styleguide (tech + english) -- only started, will be finished next week
+* move all magic from plone/documentation to plone/papyrus -- done
+* get versioning for papyrus to actually work -- done
+* prepare for use by intranetconsortium and others -- can be used, with some guidance
+* work on tickets -- three tickets closed
+* fix styleguide for plone.api -- not finished
+* kill Grok references!! (Sébastien & Coen) -- done!
+* meta-doc: document how to do documentation for multiple branches (cherrypick by hand? If we do, that also has to be a documented process) -- update: yes, cherry-picking by hand is the way; we know how to do it but has to be documented better
+* prefer plone.api in docs -- not done; this could be a nice "one at a time" task for future sprints
+* prepare for real-life launch of 3.3 docs, so we gracefully retire old stuff to it -- ready for launch
