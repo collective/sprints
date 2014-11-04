@@ -110,3 +110,12 @@ participants: Paul Roeland, Roel Bruggink, Sébastien & Coen
 * meta-doc: document how to do documentation for multiple branches (cherrypick by hand? If we do, that also has to be a documented process) -- update: yes, cherry-picking by hand is the way; we know how to do it but has to be documented better
 * prefer plone.api in docs -- not done; this could be a nice "one at a time" task for future sprints
 * prepare for real-life launch of 3.3 docs, so we gracefully retire old stuff to it -- ready for launch
+
+Installers
+----------
+
+participants: Steve McMahon, Sven Strack
+
+* Worked on documentation for Ansible kit
+* Worked on examples and documentation for creating docker images
+
